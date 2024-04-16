@@ -1,0 +1,8 @@
+server:
+  port: 9900
+  shutdown: graceful
+spring:
+  main:
+    banner-mode: off # 关关闭启动图标
+  application:
+    name: tool-common
